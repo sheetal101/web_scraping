@@ -1,0 +1,67 @@
+{
+    "Movie Name": "Toy Story 4",
+    "Url": "https://www.rottentomatoes.com/m/toy_story_4",
+    "Rating": "G",
+    "Genre": [
+        "Comedy,",
+        "Adventure,",
+        "Animation,",
+        "Fantasy,",
+        "Kids",
+        "&",
+        "family"
+    ],
+    "Language": [
+        "English"
+    ],
+    "Director": [
+        "JoshCooley"
+    ],
+    "Producer": [
+        "Mark",
+        "Nielsen,",
+        "Jonas",
+        "Rivera,",
+        "Galyn",
+        "Susman"
+    ],
+    "Runtime": 100,
+    "cast": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Annie Potts",
+        "Tony Hale",
+        "Keegan-Michael Key",
+        "Madeleine McGraw",
+        "Christina Hendricks",
+        "Jordan Peele",
+        "Keanu Reeves",
+        "Ally Maki",
+        "Jay Hernandez",
+        "Lori Alan",
+        "Joan Cusack",
+        "Bonnie Hunt",
+        "Kristen Schaal",
+        "Emily Davis",
+        "Wallace Shawn",
+        "John Ratzenberger",
+        "Blake Clark",
+        "June Squibb",
+        "Josh Cooley",
+        "Andrew Stanton",
+        "Stephany Folsom",
+        "Mark Nielsen",
+        "Jonas Rivera",
+        "Galyn Susman",
+        "Andrew Stanton",
+        "Lee Unkrich",
+        "Pete Docter",
+        "Patrick Lin",
+        "Jean-Claude Kalache",
+        "Axel Geddes",
+        "Randy Newman",
+        "Bob Pauley",
+        "Kevin Reher",
+        "Natalie Lyon"
+    ]
+}
